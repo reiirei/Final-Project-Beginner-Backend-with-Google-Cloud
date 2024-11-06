@@ -1,6 +1,3 @@
-# Final-Project-Beginner-Backend-with-Google-Cloud
-Dicoding asessment-Bangkit 2024
-
 # Bookshelf - Simple Book Management API
 
 Bookshelf is a simple backend application built using **Node.js** to manage books in a collection. This API allows you to add, view, update, and delete books in your collection. The app is designed to demonstrate backend API development and is structured with modular routing and controller functions.
